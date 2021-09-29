@@ -1,4 +1,6 @@
 # project
 
-## We are using elasticbeanstalk for Laravel API and ec2 for nextjs frontend. The issue is with authorization header. From localhost authorization header is working fine. But from ec2 server authorization header is not attaching. Nginx is running on elasticeanstalk. We have to fix this.
-## I want to discuss further more details. 
+## I didn't want to work outside. I couldn't reach with you. But this job was very urgent. I wanted to discuss more details. 
+ I know the rules of freelancer. After discussion, supposed to I create the milestone. I never offered you to work outside.
+ I wanted to just discuss about the project. Because you didn't available. 
+## 
